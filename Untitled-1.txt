@@ -1,0 +1,14 @@
+{
+    'id': 123,
+    'status': true / false 
+}
+
+=> demo1@gmail.com 
+=> ton tai ? => ban da duoc .....
+=> !ton tai => nguoi dung khong su dung he thong nay
+
+=> socket 
+
+I. Phan tich cac du an tuong tu
+II. Phan tich chuc nang, phan tich he thong, diagram server, diagram client, database.
+III. lap tinh ung dung | server | client | test 

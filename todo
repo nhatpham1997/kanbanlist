@@ -1,0 +1,4 @@
+- xóa board thì phải xoá hết column và task 
+- xóa column thì phải xóa hêt task
+
+- Gửi request xuống server check token 

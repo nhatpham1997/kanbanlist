@@ -1,0 +1,19 @@
+# Use yarn.lock instead
+server/package-lock.json
+
+# Environment variables
+server/.env
+
+server/public
+
+# Dependency directories
+server/node_modules
+
+# Client
+
+# Don't check auto-generated stuff into git
+client/build
+client/node_modules
+client/.env
+client/debug.log
+# Cruft
